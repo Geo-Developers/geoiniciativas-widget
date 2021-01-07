@@ -34,4 +34,12 @@ Para las dudas/bugs/mejoras puedes abrir un issue.
 
 ## Contribuciones
 
-El código está licenciado bajo [GPL v3.0](https://github.com/Geo-Developers/geoiniciativas-widget/blob/main/LICENSE). Si quieres ayudar a mejorar el script no dudes en contactar o abrir un issue.
+### GeoEntusiastas
+
+Si quieres ayudar con la recopilación de enlaces por favor visita: [geo-developers.github.io/geoiniciativas/#/](https://geo-developers.github.io/geoiniciativas/#/)
+
+### Desarrolladores
+
+Si quieres ayudar con el código de este widget o con el proyecto geoiniciativas puedes hacerlo, los códigos están licenciados bajo [GPL v3.0](https://github.com/Geo-Developers/geoiniciativas-widget/blob/main/LICENSE). 
+
+Para cualquier duda o sugerencia no dudes en contactar o abrir un issue.
