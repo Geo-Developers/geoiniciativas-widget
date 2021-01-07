@@ -137,19 +137,19 @@ const renderGeoIniciativasWidget = function(){
 
                 <p class="geoiniciativas-links">
                     <a href="#" onclick="downloadTab('${elem.dataset.sheetid}', ${data.tabID}); return false;">
-                        Descargar en CSV
+                        Descargar CSV
                     </a>
                     |
                     <a href="https://docs.google.com/spreadsheets/d/${elem.dataset.sheetid}/edit#gid=${tabGID}">
-                    Ver hoja de cálculo
-                    </a>
-                    |
-                    <a href="https://github.com/Geo-Developers/geoiniciativas-widget#contribuciones">
-                    Contribuir
+                        Abrir hoja de cálculo
                     </a>
                     |
                     <a href="https://github.com/Geo-Developers/geoiniciativas-widget#c%C3%B3mo-usarlo">
                         Embeber esta tabla
+                    </a>
+                    |
+                    <a href="https://github.com/Geo-Developers/geoiniciativas-widget#contribuciones">
+                        Reportar / Colaborar
                     </a>
                 </p>
             `;
