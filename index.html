@@ -7,9 +7,20 @@
     <!--
         Reemplaza el valor del atributo "data-tab" por el nombre de la pestaña que quieras cargar
     -->
-    <div class="geoiniciativas-widget" data-sheetid="1bF4YYH7bXPSLI___zMfh3tDfSxDlWWZLkkuT5vD4zHQ" data-tab="datos"></div>
+    <div class="geoiniciativas-widget" data-sheetid="1bF4YYH7bXPSLI___zMfh3tDfSxDlWWZLkkuT5vD4zHQ" data-tab="blogs"></div>
     <script>
-        const url="https://geo-developers.github.io/geoiniciativas-widget",js=document.createElement("script");js.type="text/javascript",js.src=url+"/geoiniciativas-widget.js",document.querySelector("head").appendChild(js);const css=document.createElement("link");css.rel="stylesheet",css.href=url+"//geoiniciativas-widget.css",document.querySelector("head").appendChild(css);
+        const   repoUrl = "https://geo-developers.github.io/geoiniciativas-widget",
+                js = document.createElement("script");
+                css = document.createElement("link");
+
+        js.type = "text/javascript";
+        js.src = repoUrl + "/geoiniciativas-widget.js";
+
+        css.rel = "stylesheet"
+        css.href = repoUrl + "/geoiniciativas-widget.css",
+
+        document.querySelector("head").appendChild(js);
+        document.querySelector("head").appendChild(css);
     </script>
 </body>
 </html>

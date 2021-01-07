@@ -14,9 +14,9 @@
     js.src = repoUrl + "/geoiniciativas-widget.js";
 
     css.rel = "stylesheet"
-    css.href = repoUrl + "/geoiniciativas-widget.css", d
+    css.href = repoUrl + "/geoiniciativas-widget.css",
     
     document.querySelector("head").appendChild(js);
-    ocument.querySelector("head").appendChild(css);
+    document.querySelector("head").appendChild(css);
 </script>
 ```
