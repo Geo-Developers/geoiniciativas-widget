@@ -1,7 +1,14 @@
 # geoiniciativas-widget
 
+El objetivo de este proyecto es proporcionar un widget que facilite embeber los datos del [proyecto geoiniciativas](https://github.com/Geo-Developers/geoiniciativas) en cualquier web.
 
-![GeoIniciativas](http://127.0.0.1:5500/assets/imgs/geoiniciativas.gif)
+A continuación se puede ver una [demo](https://geo-developers.github.io/geoiniciativas-widget/).
+
+[![Tabla screenshot](./table_screenshot.png)](https://geo-developers.github.io/geoiniciativas-widget/)
+
+## Cómo usarlo
+
+Simplemente tienes que copiar este código dentro de cualquier página HTML:
 
 ```html
 <div class="geoiniciativas-widget" data-sheetid="1bF4YYH7bXPSLI___zMfh3tDfSxDlWWZLkkuT5vD4zHQ" data-tab="datos"></div>
@@ -20,3 +27,11 @@
     document.querySelector("head").appendChild(css);
 </script>
 ```
+
+Reemplaza el valor del atributo "data-tab" por el nombre de la pestaña que quieras cargar.
+
+Para las dudas/bugs/mejoras puedes abrir un issue.
+
+## Contribuciones
+
+El código está licenciado bajo [GPL v3.0](https://github.com/Geo-Developers/geoiniciativas-widget/blob/main/LICENSE). Si quieres ayudar a mejorar el script no dudes en contactar o abrir un issue.
