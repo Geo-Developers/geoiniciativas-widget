@@ -144,11 +144,11 @@ const renderGeoIniciativasWidget = function(){
                     Ver hoja de cálculo
                     </a>
                     |
-                    <a href="https://github.com/Geo-Developers/geoiniciativas/blob/main/contribute.md">
+                    <a href="https://github.com/Geo-Developers/geoiniciativas-widget#contribuciones">
                     Contribuir
                     </a>
                     |
-                    <a href="https://geo-developers.github.io/geoiniciativas/#/widget">
+                    <a href="https://github.com/Geo-Developers/geoiniciativas-widget#c%C3%B3mo-usarlo">
                         Embeber esta tabla
                     </a>
                 </p>
