@@ -11,8 +11,9 @@ A continuación se puede ver una [demo](https://geo-developers.github.io/geoinic
 Simplemente tienes que copiar este código dentro de cualquier página HTML:
 
 ```html
-<div class="geoiniciativas-widget" data-sheetid="1bF4YYH7bXPSLI___zMfh3tDfSxDlWWZLkkuT5vD4zHQ" data-tab="datos"></div>
+<div class="geoiniciativas-widget" data-sheetid="1bF4YYH7bXPSLI___zMfh3tDfSxDlWWZLkkuT5vD4zHQ" data-tab="sdks-bibliotecas"></div>
 <script>
+  (function() { 
     const  repoUrl = "https://geo-developers.github.io/geoiniciativas-widget",
            js = document.createElement("script");
            css = document.createElement("link");
@@ -25,6 +26,7 @@ Simplemente tienes que copiar este código dentro de cualquier página HTML:
     
     document.querySelector("head").appendChild(js);
     document.querySelector("head").appendChild(css);
+  });
 </script>
 ```
 
