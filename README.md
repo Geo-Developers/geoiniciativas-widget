@@ -26,7 +26,7 @@ Simplemente tienes que copiar este código dentro de cualquier página HTML:
     
     document.querySelector("head").appendChild(js);
     document.querySelector("head").appendChild(css);
-  });
+  })();
 </script>
 ```
 
