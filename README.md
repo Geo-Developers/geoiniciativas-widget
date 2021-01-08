@@ -28,11 +28,11 @@ Simplemente tienes que copiar este código dentro de cualquier página HTML:
 </script>
 ```
 
-Reemplaza el valor del atributo "data-tab" por el nombre de la pestaña que quieras cargar.
+Reemplaza el valor del atributo "data-tab" por el nombre de [la pestaña](https://geo-developers.github.io/geoiniciativas/#/docs) que quieras cargar.
 
-Para las dudas/bugs/mejoras puedes abrir un issue.
+## Dudas y contribuciones
 
-## Contribuciones
+Para las dudas, mejoras y reporte de errores por favor [crea un nuevo issue](https://github.com/Geo-Developers/geoiniciativas-widget/issues).
 
 ### GeoEntusiastas
 
@@ -40,6 +40,6 @@ Si quieres ayudar con la recopilación de enlaces por favor visita: [geo-develop
 
 ### Desarrolladores
 
-Tenemos un montón de [mejoras pendientes](https://github.com/Geo-Developers/geoiniciativas-widget/issues). Si quieres ayudar con el código de este widget o con el proyecto geoiniciativas puedes hacerlo, los códigos están licenciados bajo [GPL v3.0](https://github.com/Geo-Developers/geoiniciativas-widget/blob/main/LICENSE). 
+Ayúdanos a evolucionar este widget, tenemos un montón de [mejoras pendientes](https://github.com/Geo-Developers/geoiniciativas-widget/issues). 
 
-Para cualquier duda o sugerencia no dudes en contactar o abrir un issue.
+El código de este proyecto está licenciado bajo [GPL v3.0](https://github.com/Geo-Developers/geoiniciativas-widget/blob/main/LICENSE). 
