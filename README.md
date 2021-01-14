@@ -32,6 +32,17 @@ Simplemente tienes que copiar este código dentro de cualquier página HTML:
 
 Reemplaza el valor del atributo "data-tab" por el nombre de [la pestaña](https://geo-developers.github.io/geoiniciativas/#/docs) que quieras cargar.
 
+## Spreadsheets públicos
+
+Aquí podrás encontrar diferentes hojas de cálculo con las que podrás usar este widget:
+
+* [Eventos para developers, startuperos y tecnólogos](http://bit.ly/3v3ntosTech)
+* [GeoIniciativas](https://docs.google.com/spreadsheets/d/1bF4YYH7bXPSLI___zMfh3tDfSxDlWWZLkkuT5vD4zHQ/edit#gid=0)
+* [900+ Startups hiring Remotely in 2021 - by Remotive.io : UPDATED - The List of Awesome!](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview)
+* [Awesome Game Development Articles - Curated by Black Shell Media](https://docs.google.com/spreadsheets/d/1OYzE9BvN7721mrtjZv4cPC0y8hQgtzqY0jyIQiU7Rfw/edit#gid=0)
+
+Buscar spreadsheets usando [site:docs.google.com/spreadsheets](https://www.google.com/search?q=t%C3%A9rmino%20site:docs.google.com/spreadsheets)
+
 ## Dudas y contribuciones
 
 Para las dudas, mejoras y reporte de errores por favor [crea un nuevo issue](https://github.com/Geo-Developers/geoiniciativas-widget/issues).
